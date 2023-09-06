@@ -15,7 +15,7 @@
     }
   ],
   "hosting": {
-    "public": "clientSide/chatapp/build",
+    "public": "clientSide/project/build",
     "ignore": [
       "firebase.json",
       "**/.*",

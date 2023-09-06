@@ -1,0 +1,16 @@
+{
+    "name": "ChatApp",
+    "runArgs": ["--name", "ChatApp", "--network", "host"],
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+			"GitHub.copilot",
+			"bradlc.vscode-tailwindcss",
+			"dsznajder.es7-react-js-snippets"
+		]
+      }
+    }
+  }

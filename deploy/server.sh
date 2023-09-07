@@ -1,4 +1,5 @@
 cd clientSide/project 
 npm run build
-cd ..
+cd ../../environments
+cp frontendEnvProd.js frontendEnv.js
 firebase deploy

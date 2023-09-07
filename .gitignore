@@ -67,6 +67,7 @@ functions/node_modules/
 .env
 
 # frontend 
+clientSide/**/
 
 # serverSide
 serverSide/project/node_modules

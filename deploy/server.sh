@@ -1,4 +1,4 @@
-cd clientSide/project 
+cd clientSide/Project 
 npm run build
 cd ../../environments
 cp frontendEnvProd.js frontendEnv.js

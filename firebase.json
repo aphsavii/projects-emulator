@@ -15,7 +15,7 @@
     }
   ],
   "hosting": {
-    "public": "clientSide/project/build",
+    "public": "clientSide/Project/build",
     "ignore": [
       "firebase.json",
       "**/.*",

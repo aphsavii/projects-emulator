@@ -1,6 +1,6 @@
 cd functions
 npm install
-cd ../serverSide/project
+cd ../serverSide/Project
 npm install
 cd ../../
 mkdir clientSide

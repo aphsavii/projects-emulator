@@ -1,2 +1,4 @@
-cd fuctions
-npm run serve
+cd clientSide/project
+npm run build
+cd ..
+firebase emulators:start

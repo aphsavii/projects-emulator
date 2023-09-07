@@ -70,4 +70,4 @@ functions/node_modules/
 clientSide/**
 
 # serverSide
-serverSide/**
+serverSide/project/node_modules

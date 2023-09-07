@@ -1,5 +1,5 @@
-cd clientSide/project 
-npm install
 cd ../functions
 npm install
-cd ..
+cd ../serverSide/project
+npm install
+...

@@ -1,6 +1,6 @@
 {
     "name": "ChatApp",
-    "runArgs": ["--name", "ChatApp", "--network", "host"],
+    "runArgs": ["--name", "test_emulator", "--network", "host"],
     "build": {
       "dockerfile": "Dockerfile"
     },

@@ -67,7 +67,10 @@ functions/node_modules/
 .env
 
 # frontend 
-clientSide/**/
+clientSide
 
 # serverSide
 serverSide/project/node_modules
+
+# firebase
+ui-debug.log

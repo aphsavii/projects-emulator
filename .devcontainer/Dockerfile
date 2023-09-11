@@ -7,8 +7,8 @@ SHELL ["/bin/zsh", "-c"]
 USER vscode
 
 # Set Git configurations
-RUN git config --global user.email "2010215@sliet.ac.in" \
-    && git config --global user.name "Avinash Kumar"
+RUN git config --global user.email "rahulsinghcse09@gmail.com" \
+    && git config --global user.name "Rahul singh"
 
 # Install Node.js v18.15.0 using NVM
 RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash \
